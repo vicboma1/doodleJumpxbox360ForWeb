@@ -24,6 +24,19 @@ Port Doodle Jump Xbox 360 for Web with Html5 + JavaScript
 ### Final (wip)
 ![](https://github.com/vicboma1/doodleJumpxbox360ForWeb/blob/master/gif/final.gif)
 
+## Doodle 
+
+### Run (new)
+![](https://github.com/vicboma1/doodleJumpxbox360ForWeb/blob/master/gif/run.gif)
+
+### Auto Jumping
+![](https://github.com/vicboma1/doodleJumpxbox360ForWeb/blob/master/gif/jumping.gif)
+
+### Gravity Downwards
+![](https://github.com/vicboma1/doodleJumpxbox360ForWeb/blob/master/gif/downwards.gif)
+
+
+## 
 ## Power Ups:
 
 ### Jump
