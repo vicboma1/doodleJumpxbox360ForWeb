@@ -21,7 +21,7 @@ Port Doodle Jump Xbox 360 for Web with Html5 + JavaScript
 ### Base
 ![](https://github.com/vicboma1/doodleJumpxbox360ForWeb/blob/master/gif/checkPoint.gif)
 
-### Final
+### Final (wip)
 ![](https://github.com/vicboma1/doodleJumpxbox360ForWeb/blob/master/gif/final.gif)
 
 ## Power Ups:
