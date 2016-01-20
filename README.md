@@ -45,3 +45,5 @@ Port Doodle Jump Xbox 360 for Web with Html5 + JavaScript
 ### Wings
 ![](https://github.com/vicboma1/doodleJumpxbox360ForWeb/blob/master/gif/wings.gif)
 
+### Coin
+![](https://github.com/vicboma1/doodleJumpxbox360ForWeb/blob/master/gif/coin.gif)
