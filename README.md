@@ -22,7 +22,7 @@ Port Doodle Jump Xbox 360 for Web with Html5 + JavaScript
 ![](https://github.com/vicboma1/doodleJumpxbox360ForWeb/blob/master/gif/checkPoint.gif)
 
 ### Animation Point in RoadMap (new)
-![](https://github.com/vicboma1/doodleJumpxbox360ForWeb/blob/master/gif/autoChecking.gif)
+![](https://github.com/vicboma1/doodleJumpxbox360ForWeb/blob/master/gif/flag.gif)
 
 ### Final (wip)
 ![](https://github.com/vicboma1/doodleJumpxbox360ForWeb/blob/master/gif/final.gif)
