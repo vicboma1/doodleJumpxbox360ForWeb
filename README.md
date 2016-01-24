@@ -10,6 +10,9 @@ Port Doodle Jump Xbox 360 for Web with Html5 + JavaScript
 
 ## Main Menu :
 
+### Loader
+![](https://github.com/vicboma1/doodleJumpxbox360ForWeb/blob/master/gif/loader.gif)
+
 ### Cover
 ![](https://github.com/vicboma1/doodleJumpxbox360ForWeb/blob/master/gif/cover.gif)
 
