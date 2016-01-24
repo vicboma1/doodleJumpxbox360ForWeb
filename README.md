@@ -8,16 +8,20 @@ Port Doodle Jump Xbox 360 for Web with Html5 + JavaScript
 ![](https://github.com/vicboma1/doodleJumpxbox360ForWeb/blob/master/image/Screen%20Shot%202016-01-18%20at%2016.34.38.png)
 ![](https://github.com/vicboma1/doodleJumpxbox360ForWeb/blob/master/image/Screen%20Shot%202016-01-19%20at%2023.09.00.png)
 
-## Cover:
+## Main Menu :
 
+### Cover
 ![](https://github.com/vicboma1/doodleJumpxbox360ForWeb/blob/master/gif/cover.gif)
 
-## Menu: 
-
+### Menu 
 ![](https://github.com/vicboma1/doodleJumpxbox360ForWeb/blob/master/gif/Menu.gif)
 
-##CheckPoint:
+### Select World
+![](https://github.com/vicboma1/doodleJumpxbox360ForWeb/blob/master/gif/caves.gif)
 
+
+## CheckPoint :
+ 
 ### Base
 ![](https://github.com/vicboma1/doodleJumpxbox360ForWeb/blob/master/gif/checkPoint.gif)
 
@@ -27,7 +31,7 @@ Port Doodle Jump Xbox 360 for Web with Html5 + JavaScript
 ### Final (wip)
 ![](https://github.com/vicboma1/doodleJumpxbox360ForWeb/blob/master/gif/final.gif)
 
-## Doodle 
+## Doodle : 
 
 ### Run (new)
 ![](https://github.com/vicboma1/doodleJumpxbox360ForWeb/blob/master/gif/run.gif)
@@ -39,8 +43,7 @@ Port Doodle Jump Xbox 360 for Web with Html5 + JavaScript
 ![](https://github.com/vicboma1/doodleJumpxbox360ForWeb/blob/master/gif/downwards.gif)
 
 
-## 
-## Power Ups:
+## Power Ups :
 
 ### Jump
 ![](https://github.com/vicboma1/doodleJumpxbox360ForWeb/blob/master/gif/jump.gif)
