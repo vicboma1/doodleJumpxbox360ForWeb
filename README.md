@@ -51,6 +51,10 @@ Port Doodle Jump Xbox 360 for Web with Html5 + JavaScript
 ### Gravity Downwards
 ![](https://github.com/vicboma1/doodleJumpxbox360ForWeb/blob/master/gif/downwards.gif)
 
+### Shot
+![](https://github.com/vicboma1/doodleJumpxbox360ForWeb/blob/master/gif/shot.gif)
+
+
 
 ## Power Ups :
 
