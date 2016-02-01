@@ -28,6 +28,10 @@ Port Doodle Jump Xbox 360 for Web with Html5 + JavaScript
 ### Select World
 ![](https://github.com/vicboma1/doodleJumpxbox360ForWeb/blob/master/gif/caves.gif)
 
+## Tutorial :
+ 
+### level1
+![](https://github.com/vicboma1/doodleJumpxbox360ForWeb/blob/master/gif/tutorial.gif)
 
 ## CheckPoint :
  
