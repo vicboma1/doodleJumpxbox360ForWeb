@@ -30,7 +30,7 @@ Port Doodle Jump Xbox 360 for Web with Html5 + JavaScript
 
 ## Tutorial :
  
-### level1
+### Level1
 ![](https://github.com/vicboma1/doodleJumpxbox360ForWeb/blob/master/gif/tutorial.gif)
 
 ## CheckPoint :
