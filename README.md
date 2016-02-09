@@ -70,3 +70,10 @@ Port Doodle Jump Xbox 360 for Web with Html5 + JavaScript
 
 ### Coin
 ![](https://github.com/vicboma1/doodleJumpxbox360ForWeb/blob/master/gif/coin.gif)
+
+
+
+## Blocks :
+
+### Break
+![](https://github.com/vicboma1/doodleJumpxbox360ForWeb/blob/master/gif/break.gif)
