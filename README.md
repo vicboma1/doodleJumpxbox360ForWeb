@@ -1,7 +1,7 @@
-# Doodle Jump xbox360 For Web / WIP
+# Doodle Jump xbox360 For Web
 Port Doodle Jump Xbox 360 for Web with Html5 + JavaScript
 
-## [Development's video playlist / 77 videos](https://www.youtube.com/playlist?list=PLNph7ndeSqE_0N6pELKcHKbOPBKyMQ1b8) 
+## [Development's video playlist](https://www.youtube.com/watch?v=xT8pgm-a5ug&index=1&list=PLNph7ndeSqE_0N6pELKcHKbOPBKyMQ1b8) 
 
 ## Images :
 
@@ -30,8 +30,9 @@ Port Doodle Jump Xbox 360 for Web with Html5 + JavaScript
 
 ## Tutorial :
  
-### Level1
+### level1
 ![](https://github.com/vicboma1/doodleJumpxbox360ForWeb/blob/master/gif/tutorial.gif)
+
 
 ## CheckPoint :
  
@@ -43,6 +44,7 @@ Port Doodle Jump Xbox 360 for Web with Html5 + JavaScript
 
 ### Final (wip)
 ![](https://github.com/vicboma1/doodleJumpxbox360ForWeb/blob/master/gif/final.gif)
+
 
 ## Doodle : 
 
@@ -77,3 +79,9 @@ Port Doodle Jump Xbox 360 for Web with Html5 + JavaScript
 
 ### Break
 ![](https://github.com/vicboma1/doodleJumpxbox360ForWeb/blob/master/gif/break.gif)
+
+
+## Enemies:
+
+### Shooter
+![](https://github.com/vicboma1/doodleJumpxbox360ForWeb/blob/master/gif/EnemyShooter.gif)
