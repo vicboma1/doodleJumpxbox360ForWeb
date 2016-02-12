@@ -1,7 +1,7 @@
 # Doodle Jump xbox360 For Web
 Port Doodle Jump Xbox 360 for Web with Html5 + JavaScript
 
-## [Development's video playlist](https://www.youtube.com/watch?v=xT8pgm-a5ug&index=1&list=PLNph7ndeSqE_0N6pELKcHKbOPBKyMQ1b8) 
+## [Development's video playlist](https://www.youtube.com/watch?v=uvGPyo8Fyl8&index=1&list=PLNph7ndeSqE_0N6pELKcHKbOPBKyMQ1b8) 
 
 ## Images :
 
