@@ -5,10 +5,13 @@ Port Doodle Jump Xbox 360 for Web with Html5 + JavaScript
 
 ## Gameplay:
 
-### Level 1
+### [Level 1](https://youtu.be/J-L-RszAkKI)
 
-### Level 2
-https://www.youtube.com/watch?v=Vrr9Q9VLfDU&index=4&list=PLNph7ndeSqE_0N6pELKcHKbOPBKyMQ1b8
+### [Level 2](https://www.youtube.com/watch?v=Vrr9Q9VLfDU)
+
+### [Level 3]() - WIP
+
+
 
 
 ## Images :
