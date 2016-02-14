@@ -1,7 +1,7 @@
 # Doodle Jump xbox360 For Web
 Port Doodle Jump Xbox 360 for Web with Html5 + JavaScript
 
-## [Development's video playlist](https://www.youtube.com/watch?v=uvGPyo8Fyl8&index=1&list=PLNph7ndeSqE_0N6pELKcHKbOPBKyMQ1b8) 
+## [Development's video playlist](https://www.youtube.com/watch?v=xT8pgm-a5ug&index=1&list=PLNph7ndeSqE_0N6pELKcHKbOPBKyMQ1b8) 
 
 ## Images :
 
@@ -82,6 +82,10 @@ Port Doodle Jump Xbox 360 for Web with Html5 + JavaScript
 
 ### Break
 ![](https://github.com/vicboma1/doodleJumpxbox360ForWeb/blob/master/gif/break.gif)
+
+### Cloud
+![](https://github.com/vicboma1/doodleJumpxbox360ForWeb/blob/master/gif/cloudbreak.gif)
+
 
 
 ## Enemies:
