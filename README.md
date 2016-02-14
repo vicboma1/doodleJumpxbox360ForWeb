@@ -93,5 +93,5 @@ Port Doodle Jump Xbox 360 for Web with Html5 + JavaScript
 ### Shooter
 ![](https://github.com/vicboma1/doodleJumpxbox360ForWeb/blob/master/gif/EnemyShooter.gif)
 
-### Red Monster
+### Monster Red
 ![](https://github.com/vicboma1/doodleJumpxbox360ForWeb/blob/master/gif/EnemyRed.gif)
