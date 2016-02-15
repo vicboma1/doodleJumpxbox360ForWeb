@@ -1,5 +1,4 @@
-# Doodle Jump xbox360 For Web 
-# NON COMMERCIAL !
+# Doodle Jump xbox360 For Web ( NON COMMERCIAL !)
 Port Doodle Jump Xbox 360 for Web with Html5 + JavaScript
 
 ## [Development's video playlist](https://www.youtube.com/watch?v=xT8pgm-a5ug&index=1&list=PLNph7ndeSqE_0N6pELKcHKbOPBKyMQ1b8) 
@@ -10,7 +9,7 @@ Port Doodle Jump Xbox 360 for Web with Html5 + JavaScript
 ![](https://github.com/vicboma1/doodleJumpxbox360ForWeb/blob/master/image/Screen%20Shot%202016-02-15%20at%2020.41.06.png)
 
 ### [Level 2](https://www.youtube.com/watch?v=Vrr9Q9VLfDU)
-![](https://github.com/vicboma1/doodleJumpxbox360ForWeb/blob/master/image/image/Screen%20Shot%202016-02-15%20at%2020.45.53.png)
+![](https://github.com/vicboma1/doodleJumpxbox360ForWeb/blob/master/image/Screen%20Shot%202016-02-15%20at%2020.45.53.png)
 
 ### [Level 3]() - WIP
 ![](https://github.com/vicboma1/doodleJumpxbox360ForWeb/blob/master/image/Screen%20Shot%202016-02-15%20at%2020.34.28.png)
