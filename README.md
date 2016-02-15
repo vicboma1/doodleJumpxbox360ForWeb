@@ -6,8 +6,10 @@ Port Doodle Jump Xbox 360 for Web with Html5 + JavaScript
 ## Gameplay:
 
 ### [Level 1](https://youtu.be/J-L-RszAkKI)
+![](https://github.com/vicboma1/doodleJumpxbox360ForWeb/blob/master/image/Screen%20Shot%202016-02-15%20at%2020.41.06.png)
 
 ### [Level 2](https://www.youtube.com/watch?v=Vrr9Q9VLfDU)
+![](https://github.com/vicboma1/doodleJumpxbox360ForWeb/blob/master/image/image/Screen%20Shot%202016-02-15%20at%2020.45.53.png)
 
 ### [Level 3]() - WIP
 ![](https://github.com/vicboma1/doodleJumpxbox360ForWeb/blob/master/image/Screen%20Shot%202016-02-15%20at%2020.34.28.png)
