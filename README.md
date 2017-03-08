@@ -117,3 +117,9 @@ Port Doodle Jump Xbox 360 for Web with Html5 + JavaScript
 
 ### Monster Red
 ![](https://github.com/vicboma1/doodleJumpxbox360ForWeb/blob/master/gif/EnemyRed.gif)
+
+@Autor : Victor Bolinches
+
+@vicboma1
+
+
