@@ -7,6 +7,9 @@ Port Doodle Jump Xbox 360 for Web with Html5 + [ Kotlin | JavaScript ]
 
 ## [Development's video playlist](https://goo.gl/8sJXo1) 
 
+## Asynchronous Programming
+[![](https://github.com/vicboma1/doodleJumpxbox360ForWeb/blob/master/image/syncVSAsync.png)](https://www.youtube.com/watch?v=HZXGy0NKyS0)
+
 ## Gameplay:
 
 ### [Level 1](https://youtu.be/J-L-RszAkKI)
